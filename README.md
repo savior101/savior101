@@ -9,11 +9,33 @@
 
 **Привет!**
 
-Меня зовут Селезенев Антон, инженер данных, и это мое портфолио.  
-Работал в IT, сменил сферу деятельности (работал в энергетике), сейчас учусь на дата-инженера в Нетологии.
+Меня зовут **Селезенев Антон**, я инженер данных, и это мое портфолио.  
+Работал в IT, сменил сферу деятельности (работал в энергетике), сейчас учусь на [дата-инженера в Нетологии](https://netology.ru/programs/data-engineer).
 
 **Языки и инструменты**
 
+<p align="left">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/gn3d/Uo2YL4Wd8" alt="HTML" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/vuWZ/b6BknuDHd" alt="CSS" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/f32j/TyYATs6cp" alt="PHP" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/iGXp/EZwUDTiUz" alt="Python" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/U562/SqQmj6WYG" alt="PostgreSQL" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/94Re/umzGCCUTt" alt="MySQL" style="pointer-events: none; cursor: default;">
+  <img width="40" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/a4Bf/5pbfxg6M2" alt="Linux Debian" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/LBNL/gaUXMhXtG" alt="Linux Ubuntu" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/tQzd/E6nAjbqDc" alt="DBeaver" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/Y8id/2KUpCqzU7" alt="PyCharm" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/GwyS/rdtcnoSqr" alt="Pentaho DI" style="pointer-events: none; cursor: default;">
+</p>
+
+Немного знаком с:
+
+<p align="left">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/V17L/XYsabjNaH" alt="JavaScript" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/aVEk/GYeYS9jb3" alt="С++" style="pointer-events: none; cursor: default;">
+</p>
+  
+  
 <p align="center">
   <img width="300" height="200" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/2RhX/gNCSD2ze7">
 </p>
@@ -24,7 +46,7 @@
 * [Итоговая работа модуля «Data Warehouse».](https://github.com/savior101/netology_dwh_fw)
 
 **Предыдущие проекты**
-* [Landing page на WordPress под ключ](https://etech.su/)
+* [Landing page на WordPress (Elementor) под ключ](https://etech.su/)
 * [Landing page, написанный вручную, под ключ](https://konturkirov.ru/)
 * [Веб-приложение «Электроснабжение Кировского Молочного Комбината»](https://example.com/)
 
