@@ -41,14 +41,14 @@
 </p>
 
 **Итоговые работы в Нетологии, курс «Дата-инженер с нуля до middle»**
-* [Итоговая работа модуля «SQL» (PostgreSQL).](https://example.com/)
-* [Итоговая работа модуля «Продвинутый SQL» (PostgreSQL).](https://example.com/)
-* [Итоговая работа модуля «Data Warehouse».](https://github.com/savior101/netology_dwh_fw)
+* [Итоговая работа модуля «SQL» (PostgreSQL)](https://github.com/savior101/netology_sql_fw)
+* [Итоговая работа модуля «Продвинутый SQL» (PostgreSQL)](https://github.com/savior101/netology_sqlp_fw)
+* [Итоговая работа модуля «Data Warehouse»](https://github.com/savior101/netology_dwh_fw)
 
 **Предыдущие проекты**
 * [Landing page на WordPress (Elementor) под ключ](https://etech.su/)
 * [Landing page, написанный вручную, под ключ](https://konturkirov.ru/)
-* [Веб-приложение «Электроснабжение Кировского Молочного Комбината»](https://example.com/)
+* [Веб-приложение «Электроснабжение Кировского Молочного Комбината»](https://github.com/savior101/kmk_electricity_kirov)
 
 <p align="center">
   <img width="200" height="200" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/Bvwk/v5Ky7SKwG">
