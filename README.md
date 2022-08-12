@@ -44,7 +44,7 @@
 
 **Итоговые работы в Нетологии, курс «Дата-инженер с нуля до middle»**
 * [Итоговая работа модуля «SQL» (PostgreSQL). 2022](https://github.com/savior101/netology_sql_fw)
-* [Итоговая работа модуля «Продвинутый SQL» . 2022(PostgreSQL)](https://github.com/savior101/netology_sqlp_fw)
+* [Итоговая работа модуля «Продвинутый SQL» (PostgreSQL). 2022](https://github.com/savior101/netology_sqlp_fw)
 * [Итоговая работа модуля «Data Warehouse». 2022](https://github.com/savior101/netology_dwh_fw)
 
 **Предыдущие проекты**
