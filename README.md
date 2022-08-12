@@ -33,6 +33,8 @@
 <p align="left">
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/V17L/XYsabjNaH" alt="JavaScript" style="pointer-events: none; cursor: default;">
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/aVEk/GYeYS9jb3" alt="С++" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/PD5o/i2kZJaZkM" alt="Tableau" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/UneK/arXnK9Wa8" alt="Power BI" style="pointer-events: none; cursor: default;">
 </p>
   
   
