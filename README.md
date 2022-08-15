@@ -2,6 +2,7 @@
   <img width="200" height="200" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/iNKP/WXANLUTTC">
 </p>
 <p align="center">
+  <a href="https://example.com"><img width="35" height="35" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/1e4F/SRSWg8ijR"></a>
   <a href="https://t.me/anton_selezenev"><img width="35" height="35" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/t7uU/2Ssd66mCH"></a>
   <a href="https://wa.me/79630005950"><img width="35" height="35" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/x4ZW/SKc9xre8T"></a>
   <a href="https://www.linkedin.com/in/selezenevanton"><img width="35" height="35" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/ht28/pF9uS7ss4"></a>
@@ -15,8 +16,8 @@
 **Языки и инструменты**
 
 <p align="left">
-  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/gn3d/Uo2YL4Wd8" alt="HTML" style="pointer-events: none; cursor: default;">
-  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/vuWZ/b6BknuDHd" alt="CSS" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/PCdz/6k4aJnZkK" alt="HTML" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/i3z4/DgBLkEuLy" alt="CSS" style="pointer-events: none; cursor: default;">
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/f32j/TyYATs6cp" alt="PHP" style="pointer-events: none; cursor: default;">
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/iGXp/EZwUDTiUz" alt="Python" style="pointer-events: none; cursor: default;">
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/U562/SqQmj6WYG" alt="PostgreSQL" style="pointer-events: none; cursor: default;">
@@ -43,14 +44,14 @@
 </p>
 
 **Итоговые работы в Нетологии, курс «Дата-инженер с нуля до middle»**
-* [Итоговая работа модуля «SQL» (PostgreSQL). 2022](https://github.com/savior101/netology_sql_fw)
-* [Итоговая работа модуля «Продвинутый SQL» (PostgreSQL). 2022](https://github.com/savior101/netology_sqlp_fw)
-* [Итоговая работа модуля «Data Warehouse». 2022](https://github.com/savior101/netology_dwh_fw)
+* [2022. Итоговая работа модуля «SQL» (PostgreSQL)](https://github.com/savior101/netology_sql_fw)
+* [2022. Итоговая работа модуля «Продвинутый SQL» (PostgreSQL)](https://github.com/savior101/netology_sqlp_fw)
+* [2022. Итоговая работа модуля «Data Warehouse»](https://github.com/savior101/netology_dwh_fw)
 
 **Предыдущие проекты**
-* [Landing page на WordPress (Elementor) под ключ. 2021](https://etech.su/)
-* [Landing page, написанный вручную, под ключ. 2021](https://konturkirov.ru/)
-* [Веб-приложение «Электроснабжение Кировского молочного комбината». 2021](https://github.com/savior101/kmk_electricity_kirov)
+* [2021. Landing page на WordPress (Elementor) под ключ](https://etech.su/)
+* [2021. Landing page, написанный вручную, под ключ](https://konturkirov.ru/)
+* [2021. Веб-приложение «Электроснабжение Кировского молочного комбината»](https://github.com/savior101/kmk_electricity_kirov)
 
 <p align="center">
   <img width="200" height="200" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/Bvwk/v5Ky7SKwG">
@@ -73,6 +74,6 @@
 * [SQL. Stepik](https://cloud.mail.ru/public/DFtW/LsGKTxz6F)
 * [DWH. Нетология](https://cloud.mail.ru/public/Lf4W/ejduwDQEH)
 * [Визуализация данных. Нетология](https://cloud.mail.ru/public/qBxu/CSwaaLLVY)
-* [Введение в нейронные сети](https://cloud.mail.ru/public/Uaho/gKK2iJGdK)
+* [Введение в нейронные сети. Нетология](https://cloud.mail.ru/public/Uaho/gKK2iJGdK)
 
 <!--- За картинки спасибо [@storyset](https://www.freepik.com/author/stories)
