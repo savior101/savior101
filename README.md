@@ -2,7 +2,7 @@
   <img width="200" height="200" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/iNKP/WXANLUTTC">
 </p>
 <p align="center">
-  <a href="https://example.com"><img width="35" height="35" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/1e4F/SRSWg8ijR"></a>
+  <a href="https://cloud.mail.ru/public/HiLx/nUQMoeSDP"><img width="35" height="35" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/1e4F/SRSWg8ijR"></a>
   <a href="https://t.me/anton_selezenev"><img width="35" height="35" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/t7uU/2Ssd66mCH"></a>
   <a href="https://wa.me/79630005950"><img width="35" height="35" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/x4ZW/SKc9xre8T"></a>
   <a href="https://www.linkedin.com/in/selezenevanton"><img width="35" height="35" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/ht28/pF9uS7ss4"></a>
@@ -27,6 +27,7 @@
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/tQzd/E6nAjbqDc" alt="DBeaver" style="pointer-events: none; cursor: default;">
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/Y8id/2KUpCqzU7" alt="PyCharm" style="pointer-events: none; cursor: default;">
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/GwyS/rdtcnoSqr" alt="Pentaho DI" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/2a8w/kPHMM66zt" alt="Yandex DataLens" style="pointer-events: none; cursor: default;">
 </p>
 
 Немного знаком с:
@@ -64,6 +65,7 @@
 * Web-сервер (Apache2 для рабочих проектов)
 * Wiki-сервер (DocuWiki для документирования проектов, инструкций и заметок)
 * Резервное копирование данных (rsync + cron)
+* Сервер печати (CUPS)
 
 <p align="center">
   <img width="200" height="200" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/yvhc/fDhjsqSS4">
