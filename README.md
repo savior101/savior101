@@ -75,6 +75,7 @@
 * [SQL. Нетология](https://cloud.mail.ru/public/55NT/ubkSU8x7Z)
 * [SQL. Stepik](https://cloud.mail.ru/public/DFtW/LsGKTxz6F)
 * [DWH. Нетология](https://cloud.mail.ru/public/Lf4W/ejduwDQEH)
+* [BI. Нетология](https://cloud.mail.ru/public/bEMZ/J7ivYsY3x)
 * [Визуализация данных. Нетология](https://cloud.mail.ru/public/qBxu/CSwaaLLVY)
 * [Введение в нейронные сети. Нетология](https://cloud.mail.ru/public/Uaho/gKK2iJGdK)
 
