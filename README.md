@@ -49,6 +49,9 @@
 * [2022. Итоговая работа модуля «Продвинутый SQL» (PostgreSQL)](https://github.com/savior101/netology_sqlp_fw)
 * [2022. Итоговая работа модуля «Data Warehouse»](https://github.com/savior101/netology_dwh_fw)
 
+**Домашние задания в Нетологии, курс «Дата-инженер с нуля до middle»**
+* [2022. ДЗ модуля «Python для анализа данных»](https://github.com/savior101/netology_python)
+
 **Предыдущие проекты**
 * [2021. Landing page на WordPress (Elementor) под ключ](https://etech.su/)
 * [2021. Landing page, написанный вручную, под ключ](https://konturkirov.ru/)
