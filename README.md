@@ -48,6 +48,7 @@
 * [2022. Итоговая работа модуля «SQL» (PostgreSQL)](https://github.com/savior101/netology_sql_fw)
 * [2022. Итоговая работа модуля «Продвинутый SQL» (PostgreSQL)](https://github.com/savior101/netology_sqlp_fw)
 * [2022. Итоговая работа модуля «Data Warehouse»](https://github.com/savior101/netology_dwh_fw)
+* [2022. Лабораторая работа по курсу «Python для анализа данных»](https://github.com/savior101/netology_python/tree/main/6.9_lab)
 
 **Домашние задания в Нетологии, курс «Дата-инженер с нуля до middle»**
 * [2022. ДЗ модуля «Python для анализа данных»](https://github.com/savior101/netology_python)
@@ -69,6 +70,7 @@
 * Wiki-сервер (DocuWiki для документирования проектов, инструкций и заметок)
 * Резервное копирование данных (rsync + cron)
 * Сервер печати (CUPS)
+* Мониторинг параметров сервера и сети (netdata + netdata cloud)
 
 <p align="center">
   <img width="200" height="200" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/yvhc/fDhjsqSS4">
