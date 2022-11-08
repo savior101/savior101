@@ -52,6 +52,7 @@
 
 **Домашние задания в Нетологии, курс «Дата-инженер с нуля до middle»**
 * [2022. ДЗ модуля «Python для анализа данных»](https://github.com/savior101/netology_python)
+* [2022. ДЗ модуля «NumPy, Pandas, MPL»](https://github.com/savior101/netology_np-pd)
 
 **Предыдущие проекты**
 * [2021. Landing page на WordPress (Elementor) под ключ](https://etech.su/)
