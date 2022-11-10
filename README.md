@@ -16,18 +16,23 @@
 **Языки и инструменты**
 
 <p align="left">
-  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/PCdz/6k4aJnZkK" alt="HTML" style="pointer-events: none; cursor: default;">
-  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/i3z4/DgBLkEuLy" alt="CSS" style="pointer-events: none; cursor: default;">
-  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/f32j/TyYATs6cp" alt="PHP" style="pointer-events: none; cursor: default;">
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/iGXp/EZwUDTiUz" alt="Python" style="pointer-events: none; cursor: default;">
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/U562/SqQmj6WYG" alt="PostgreSQL" style="pointer-events: none; cursor: default;">
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/94Re/umzGCCUTt" alt="MySQL" style="pointer-events: none; cursor: default;">
-  <img width="40" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/a4Bf/5pbfxg6M2" alt="Linux Debian" style="pointer-events: none; cursor: default;">
-  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/LBNL/gaUXMhXtG" alt="Linux Ubuntu" style="pointer-events: none; cursor: default;">
-  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/tQzd/E6nAjbqDc" alt="DBeaver" style="pointer-events: none; cursor: default;">
-  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/Y8id/2KUpCqzU7" alt="PyCharm" style="pointer-events: none; cursor: default;">
+  <img width="70" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/tkQF/cwMZJGmDC" alt="Hadoop" style="pointer-events: none; cursor: default;">
+  <img width="60" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/k6qA/NxB9WPjHu" alt="Spark" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/xrU2/gHPN88Ewx" alt="Airflow" style="pointer-events: none; cursor: default;">
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/GwyS/rdtcnoSqr" alt="Pentaho DI" style="pointer-events: none; cursor: default;">
   <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/2a8w/kPHMM66zt" alt="Yandex DataLens" style="pointer-events: none; cursor: default;">
+  <img width="40" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/a4Bf/5pbfxg6M2" alt="Linux Debian" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/LBNL/gaUXMhXtG" alt="Linux Ubuntu" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/PCdz/6k4aJnZkK" alt="HTML" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/i3z4/DgBLkEuLy" alt="CSS" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/f32j/TyYATs6cp" alt="PHP" style="pointer-events: none; cursor: default;">
+  
+  <!-- <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/tQzd/E6nAjbqDc" alt="DBeaver" style="pointer-events: none; cursor: default;">
+  <img width="50" height="50" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/Y8id/2KUpCqzU7" alt="PyCharm" style="pointer-events: none; cursor: default;">
+  -->
 </p>
 
 Немного знаком с:
@@ -63,15 +68,18 @@
   <img width="200" height="200" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/Bvwk/v5Ky7SKwG">
 </p>
 
-**Мои pet-проекты**  
-Домашний сервер на базе OrangePi 3 LTS (Debian bullseye)
+**Мои pet-проекты**
+1. Мониторинг оборудования [TeddyFood](https://teddyfood.com/ru/) для [передержки собак "Мокрый нос"](https://vk.com/kirov_mokriynos) с помощью NetdataServer + NetdataCloud
+* Состояние роутера TPLink WR940N на OpenWRT
+* Состояние IP-камер видеонаблюдения
+2. Домашний сервер на базе OrangePi 3 LTS (Debian bullseye)
 * DLNA-сервер (MiniDLNA)
 * NAS-сервер (сетевой HDD по Samba)
 * Web-сервер (Apache2 для рабочих проектов)
 * Wiki-сервер (DocuWiki для документирования проектов, инструкций и заметок)
 * Резервное копирование данных (rsync + cron)
 * Сервер печати (CUPS)
-* Мониторинг параметров сервера и сети (netdata + netdata cloud)
+* Мониторинг параметров сервера и сети (NetdataServer + NetdataCloud)
 
 <p align="center">
   <img width="200" height="200" src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/yvhc/fDhjsqSS4">
