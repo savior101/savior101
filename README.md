@@ -86,6 +86,7 @@
 </p>
 
 **Сертификаты и свидетельства**
+* [Pandas, NumPy. Нетология](https://cloud.mail.ru/public/DydL/StA37y5rE)
 * [SQL. Нетология](https://cloud.mail.ru/public/55NT/ubkSU8x7Z)
 * [SQL. Stepik](https://cloud.mail.ru/public/DFtW/LsGKTxz6F)
 * [Python. Stepik](https://cloud.mail.ru/public/pKvm/FQx7WArhS)
